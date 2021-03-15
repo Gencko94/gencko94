@@ -1,4 +1,6 @@
-### Hi there 👋 :syria:
+### Hi there, I'm Ahmad 👋:man_technologist:
+![banner](https://user-images.githubusercontent.com/72993353/111161475-dc78cd80-85a3-11eb-8728-a9a8897bf9cb.jpg)
+
 
 <!--
 **Gencko94/gencko94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
