@@ -1,5 +1,7 @@
-### Hi there, I'm Ahmad 👋:man_technologist:
-![banner](https://user-images.githubusercontent.com/72993353/111161858-3da0a100-85a4-11eb-8954-2498be264bac.jpg)
+## Hi there, I'm Ahmad 👋:man_technologist:
+![banner](https://user-images.githubusercontent.com/72993353/111162138-8ce6d180-85a4-11eb-92a9-a12d120fe65e.jpg)
+
+I am a self taught software developer who is passionate about web technologies,using the best practices and design patterns, for making smooth UI/UX designs for people to use. Currently focusing on front end web development and hopefully in the future i'll be a fullstack dev :rocket:. 
 
 
 
