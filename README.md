@@ -1,5 +1,6 @@
 ### Hi there, I'm Ahmad 👋:man_technologist:
-![banner](https://user-images.githubusercontent.com/72993353/111161475-dc78cd80-85a3-11eb-8728-a9a8897bf9cb.jpg)
+![banner](https://user-images.githubusercontent.com/72993353/111161858-3da0a100-85a4-11eb-8954-2498be264bac.jpg)
+
 
 
 <!--
